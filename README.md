@@ -11,7 +11,7 @@ This is a simple and elegant profile card built using HTML and CSS. The card sho
 - Simple analytics icons for likes, comments, and messages
 
 ## Live Demo
-Check out the live demo of the profile card here: [Live Demo on Vercel](https://your-vercel-link.com)
+Check out the live demo of the profile card here: [Live Demo on Vercel]([https://your-vercel-link.com](https://profile-card-ui-ashy.vercel.app))
 
 ## Technologies Used
 - **HTML**
